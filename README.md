@@ -23,7 +23,6 @@ The software side of this project is kept simple by utilizing [MobiFlight](https
 | **Connectors** | JST XH 2/4/6-pin connectors, 30-pin IDC ribbon cable |
 | **3D Printed Parts** | Full front panel, encoder shafts, actuator rods for switches |
 
-> ✅ All connectors are labeled and harnessed with Niimbot B1 50×30 labels for clarity and easy maintenance.
 
 ## 🖼️ Block Diagram
 
