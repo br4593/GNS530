@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MobiflightConnector>
+  <outputs>
+    <config guid="a8d0bcfc-bbd1-481e-ae12-91378430c832">
+      <active>true</active>
+      <description>Comm/Vol Outer Knob</description>
+      <settings msdata:InstanceType="MobiFlight.OutputConfigItem, MFConnector, Version=10.5.3.0, Culture=neutral, PublicKeyToken=null" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <source type="SimConnect" VarType="LVAR" Value="" />
+        <test type="Float" value="1" />
+        <modifiers />
+        <display type="" serial="" pin="" pinBrightness="255" />
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+  </outputs>
+  <inputs>
+    <config guid="fe9c5721-8fa1-4a2b-8c2e-b1ebb468f4dc">
+      <active>true</active>
+      <description>Comm/Vol Enc Outer Knob</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.5.3.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Nano/ SN-8a7-f73" name="CV_ENC1_OUT" type="Encoder" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <encoder>
+          <onLeft type="MSFS2020CustomInputAction" command="(&gt;H:AS530_LeftLargeKnob_Left)" presetId="05518a2f-5e17-4bae-ac90-dc5517d26277" />
+          <onLeftFast type="MSFS2020CustomInputAction" command="(&gt;H:AS530_LeftLargeKnob_Left)" presetId="05518a2f-5e17-4bae-ac90-dc5517d26277" />
+          <onRight type="MSFS2020CustomInputAction" command="(&gt;H:AS530_LeftLargeKnob_Right)" presetId="defaf8fa-8018-4e70-8a7d-86e533b253f7" />
+          <onRightFast type="MSFS2020CustomInputAction" command="(&gt;H:AS530_LeftLargeKnob_Right)" presetId="defaf8fa-8018-4e70-8a7d-86e533b253f7" />
+        </encoder>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="7a556bad-74d1-4816-aaa9-e815f106c3ca">
+      <active>true</active>
+      <description>Comm/Vol Enc Inner Knob</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.5.3.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Nano/ SN-8a7-f73" name="CV_ENC1_IN" type="Encoder" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <encoder>
+          <onLeft type="MSFS2020CustomInputAction" command="(&gt;H:AS530_LeftSmallKnob_Left)" presetId="54c9fbef-275b-4c8f-8357-c921d5c717b2" />
+          <onLeftFast type="MSFS2020CustomInputAction" command="(&gt;H:AS530_LeftSmallKnob_Left)" presetId="54c9fbef-275b-4c8f-8357-c921d5c717b2" />
+          <onRight type="MSFS2020CustomInputAction" command="(&gt;H:AS530_LeftSmallKnob_Right)" presetId="f27546e8-b061-464c-8509-f9e7e884e161" />
+          <onRightFast type="MSFS2020CustomInputAction" command="(&gt;H:AS530_LeftSmallKnob_Right)" presetId="f27546e8-b061-464c-8509-f9e7e884e161" />
+        </encoder>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="dc5f6755-1021-4041-b7ad-306531dd90ec">
+      <active>true</active>
+      <description>Crsr Enc Outer Knob</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.5.3.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Nano/ SN-8a7-f73" name="CRSR_ENC2_OUT" type="Encoder" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <encoder>
+          <onLeft type="MSFS2020CustomInputAction" command="(&gt;H:AS530_RightLargeKnob_Left)" presetId="cc371db9-05b3-45e9-8700-7841ddae3f2a" />
+          <onLeftFast type="MSFS2020CustomInputAction" command="(&gt;H:AS530_RightLargeKnob_Left)" presetId="cc371db9-05b3-45e9-8700-7841ddae3f2a" />
+          <onRight type="MSFS2020CustomInputAction" command="(&gt;H:AS530_RightLargeKnob_Right)" presetId="ce4dd394-2599-4602-a42c-1f09271b8825" />
+          <onRightFast type="MSFS2020CustomInputAction" command="(&gt;H:AS530_RightLargeKnob_Right)" presetId="ce4dd394-2599-4602-a42c-1f09271b8825" />
+        </encoder>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="916ed284-b385-40c9-ac0f-7c6d3bbdde94">
+      <active>true</active>
+      <description>Crsr Enc Inner Knob</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.5.3.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Nano/ SN-8a7-f73" name="CRSR_ENC2_IN" type="Encoder" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <encoder>
+          <onLeft type="MSFS2020CustomInputAction" command="(&gt;H:AS530_RightSmallKnob_Left)" presetId="115b2bd4-5c2e-43a5-ad0c-0297e8023454" />
+          <onLeftFast type="MSFS2020CustomInputAction" command="(&gt;H:AS530_RightSmallKnob_Left)" presetId="115b2bd4-5c2e-43a5-ad0c-0297e8023454" />
+          <onRight type="MSFS2020CustomInputAction" command="(&gt;H:AS530_RightSmallKnob_Right)" presetId="c3962792-4a50-487a-aaba-c8b5ba16f354" />
+          <onRightFast type="MSFS2020CustomInputAction" command="(&gt;H:AS530_RightSmallKnob_Right)" presetId="c3962792-4a50-487a-aaba-c8b5ba16f354" />
+        </encoder>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="a05dc230-afa8-478b-b07d-c7862574f0cc">
+      <active>true</active>
+      <description>Comm/Vol Enc Button</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.5.3.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Nano/ SN-8a7-f73" name="Multiplexer" type="InputMultiplexer" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <inputMultiplexer DataPin="2">
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:AS530_LeftSmallKnob_Push)" presetId="f0260cd1-9089-4595-893d-a2b8686f2fa1" />
+        </inputMultiplexer>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="6819c6b1-420f-4c57-9f6b-3455a592d1fc">
+      <active>true</active>
+      <description>Crsr Enc Inner Knob</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.5.3.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Nano/ SN-8a7-f73" name="CRSR_ENC2_BTN" type="Button" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <button>
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;H:AS530_RightSmallKnob_Push)" presetId="07ff4423-26c6-4612-a9c9-c4068b2b1c21" />
+        </button>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="1959df8a-5ede-4464-9ffe-547ba77bd107">
+      <active>true</active>
+      <description>Comm Vol</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.5.3.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Nano/ SN-8a7-f73" name="COM_VOL" type="AnalogInput" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <analog>
+          <onChange type="MSFS2020CustomInputAction" command="@ 10.23 / (&gt;K:COM1_VOLUME_SET)" presetId="605b1d74-cd53-448c-bc53-b4b79e591fe1" />
+        </analog>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="a45283cf-d73a-4623-91f7-fd566c4828b3">
+      <active>true</active>
+      <description>Nav Vol</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.5.3.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Nano/ SN-8a7-f73" name="NAV_VOL" type="AnalogInput" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <analog>
+          <onChange type="MSFS2020CustomInputAction" command="@ 10.23 / (&gt;K:NAV1_VOLUME_SET_EX1)" presetId="c852a545-6715-42b3-9187-0863129bf160" />
+        </analog>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+    <config guid="8a985078-7a47-4f4f-9dce-c737cc8fd329">
+      <active>true</active>
+      <description>Push ID</description>
+      <settings msdata:InstanceType="MobiFlight.InputConfigItem, MFConnector, Version=10.5.3.0, Culture=neutral, PublicKeyToken=null" serial="MobiFlight Nano/ SN-8a7-f73" name="Multiplexer" type="InputMultiplexer" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <inputMultiplexer DataPin="9">
+          <onPress type="MSFS2020CustomInputAction" command="(&gt;K:RADIO_VOR1_IDENT_TOGGLE)" presetId="db2fc654-eb8c-45f1-a26b-c9f172accc1d" />
+          <onRelease type="MSFS2020CustomInputAction" command="(&gt;K:RADIO_VOR1_IDENT_TOGGLE)" presetId="db2fc654-eb8c-45f1-a26b-c9f172accc1d" />
+        </inputMultiplexer>
+        <preconditions />
+        <configrefs />
+      </settings>
+    </config>
+  </inputs>
+</MobiflightConnector>
