@@ -22,7 +22,7 @@ This is a custom-built GNS530 panel replica designed to interface with **Microso
 
 
 ## 🖼️ Block Diagram
-
+  
 ![Block Diagram](https://github.com/br4593/GNS530/blob/main/drawings/block_diagram.png)
 
 ## 🖼️ Images
