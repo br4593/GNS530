@@ -27,7 +27,7 @@ The software side of this project is kept simple by utilizing [MobiFlight](https
 
 ## 🖼️ Block Diagram
 
-![Block Diagram](drawings/block_diagram.png)
+![Block Diagram](https://github.com/br4593/GNS530/blob/main/drawings/block_diagram.png)
 
 ## 🖼️ Images
 
