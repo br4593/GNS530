@@ -4,9 +4,6 @@ This is a custom-built GNS530 panel replica designed to interface with **Microso
 
 > 🚧 **This project is a work in progress.** Final assembly, wiring, and MobiFlight configuration are still being refined.
 
-## ✈️ Overview
-
-The software side of this project is kept simple by utilizing [MobiFlight](https://www.mobiflight.com/), a powerful tool that bridges Arduino hardware to MSFS. The panel supports rotary encoders, push buttons, volume control, squelch, and a high-quality TFT display to mimic the original Garmin GNS530 unit.
 
 ## 🧰 Bill of Materials (BOM)
 
@@ -32,8 +29,3 @@ The software side of this project is kept simple by utilizing [MobiFlight](https
 
 ![Prototype](20250606_175118.jpg)
 
-*(More images of the assembled panel, wiring harnesses, and display can be added here)*
-
----
-
-Feel free to open an [issue](https://github.com/YOUR_USERNAME/GNS530-replica/issues) or pull request if you'd like to contribute!
