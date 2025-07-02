@@ -5,7 +5,7 @@ This is a custom-built GNS530 panel replica designed to interface with **Microso
 > 🚧 **This project is a work in progress.** Final assembly, wiring, and MobiFlight configuration are still being refined.
 
 
-## 🧰 Bill of Materials (BOM)
+## Bill of Materials (BOM)
 
 | Component | Description |
 |----------|-------------|
@@ -21,11 +21,14 @@ This is a custom-built GNS530 panel replica designed to interface with **Microso
 | **3D Printed Parts** | Full front panel, encoder shafts, actuator rods for switches |
 
 
-## 🖼️ Block Diagram
+## Block Diagram
   
 ![Block Diagram](https://github.com/br4593/GNS530/blob/main/drawings/block_diagram.png)
 
-## 🖼️ Images
+## PCB Drawing:
+![PCB Drawing](drawings/pcb_drawing.png)
 
-![Prototype](20250606_175118.jpg)
+## Images
+
+![Prototype](imgs/20250606_175118.jpg)
 
